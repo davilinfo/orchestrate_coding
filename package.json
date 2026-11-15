@@ -1,0 +1,24 @@
+{
+  "name": "hello-world-html5-js",
+  "version": "1.0.0",
+  "description": "A simple Hello World application built with HTML5 and JavaScript",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint js/**/*.js tests/**/*.js",
+    "start": "http-server ."
+  },
+  "keywords": [
+    "hello-world",
+    "html5",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "eslint": "^8.57.0",
+    "http-server": "^14.1.1"
+  }
+}
