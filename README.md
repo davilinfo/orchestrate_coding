@@ -69,3 +69,6 @@ The pipeline runs automatically on every push and pull request to the `main` bra
 ## License
 
 MIT License
+
+<img width="711" height="421" alt="image" src="https://github.com/user-attachments/assets/0b4f616e-bd06-4dbe-94f1-8fb06eed7a51" />
+
